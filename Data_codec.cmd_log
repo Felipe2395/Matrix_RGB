@@ -1,0 +1,6 @@
+vhdtdtfi -lang verilog -prj Matrix_RGB -o /home/anderson/Matrix_RGB/Data_codec.tfi -lib work /home/anderson/Matrix_RGB//Data_codec.v -module Data_codec -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "/home/anderson/Matrix_RGB/Data_codec.xst" -ofn "/home/anderson/Matrix_RGB/Data_codec.syr" 
+xst -intstyle ise -ifn "/home/anderson/Matrix_RGB/Data_codec.xst" -ofn "/home/anderson/Matrix_RGB/Data_codec.syr" 
+xst -intstyle ise -ifn "/home/anderson/Matrix_RGB/Data_codec.xst" -ofn "/home/anderson/Matrix_RGB/Data_codec.syr" 
+xst -intstyle ise -ifn "/home/anderson/Matrix_RGB/Data_codec.xst" -ofn "/home/anderson/Matrix_RGB/Data_codec.syr" 
+xst -intstyle ise -ifn "/home/anderson/Matrix_RGB/Data_codec.xst" -ofn "/home/anderson/Matrix_RGB/Data_codec.syr" 

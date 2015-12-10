@@ -1,0 +1,4 @@
+verilog work "linesel_count.v"
+verilog work "DriverRGB.v"
+verilog work "Data_codec.v"
+verilog work "top.v"

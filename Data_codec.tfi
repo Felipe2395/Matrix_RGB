@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+Data_codec instance_name (
+    .r_enable(r_enable), 
+    .m_data(m_data), 
+    .linesel(linesel), 
+    .linesel_en(linesel_en), 
+    .red(red), 
+    .red2(red2), 
+    .send(send), 
+    .enable(enable)
+    );
+
+

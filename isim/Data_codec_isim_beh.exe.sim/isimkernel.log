@@ -1,0 +1,29 @@
+Command line:
+   Data_codec_isim_beh.exe
+     -simmode  gui
+     -simrunnum  3
+     -socket  44218
+
+Sat Dec  5 12:13:24 2015
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 225.595 Meg
+
+ Total Signals          : 18
+ Total Nets             : 180
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 10
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 813
+Total Line Count : 57
+
+ Total Simulation Time: 0.06 sec
+
+ Current Memory Usage: 301.097 Meg
+
+Sat Dec  5 12:14:35 2015
+
